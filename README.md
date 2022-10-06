@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @uimkatali / Catalin Miu
+- 👀 I’m interested in any tech or dance subject
+- 🌱 I’m currently learning React ---> Redux
+- 💞️ I’m looking to collaborate on development of any React based websites, and I'm doing it just to learn more new things
+- 📫 How to reach me ---> you can e-mail me at miu.catalinm@gmail.com
